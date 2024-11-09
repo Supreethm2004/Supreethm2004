@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Supreethm2004
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning Electronics and communication engineering
 - 💞️ I’m looking to collaborate on github
 - 😄 gender: male
 
